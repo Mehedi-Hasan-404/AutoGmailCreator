@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs
+*.log
+
+# OS or editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Secret or local config files
+config.json
+*.env
