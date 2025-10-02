@@ -1,29 +1,18 @@
-# Python virtual environment
-.venv/
-env/
-venv/
-
-# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Distribution / packaging
-*.egg
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
 *.egg-info/
 dist/
 build/
-*.whl
-
-# Logs
-*.log
-
-# OS or editor files
-.DS_Store
-Thumbs.db
+*.bak
 *.swp
-*.swo
-
-# Secret or local config files
-config.json
-*.env
