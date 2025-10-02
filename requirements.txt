@@ -1,5 +1,5 @@
-selenium
-geckodriver-autoinstaller
-webdriver-manager
-requests
-fake_useragent
+selenium==4.6.0
+selenium-wire==5.1.0
+webdriver-manager==3.8.1
+geckodriver-autoinstaller==0.4.0
+requests==2.26.0
