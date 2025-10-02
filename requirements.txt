@@ -1,0 +1,5 @@
+selenium
+geckodriver-autoinstaller
+webdriver-manager
+requests
+fake_useragent
